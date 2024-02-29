@@ -30,5 +30,6 @@ end
 
 This enables the source and registers layout when debugging using **gdb**, activated by the new command _"go"_.
 
+_The optional section was taken from the [material](https://season-lab.github.io/SC/training/tools/gdb) provided by my professors_
 
 _*Done*_
